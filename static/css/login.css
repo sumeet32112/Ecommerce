@@ -1,0 +1,36 @@
+body{
+    background-color:white;
+    margin:30px 0px 0px 0px;
+    font-family:"calibri";
+
+   }
+#main{
+    margin: auto;
+    border:solid 1px lightgray;
+    width:80%;
+    padding:5px;
+    margin-top:5px;
+    
+   }
+   #main form, #main h2{
+    text-align:center;
+   }
+   #main table {
+    width:100%;
+    text-align:center;
+    color:#329A97;
+   }
+   #main table th{
+    background-color: #329A97;
+    color:white;
+   }
+   .btn{
+    background-color:#F4FA3C; /* Yellow */
+    width:150px;
+    border:solid 2px #329A97; /* Teal Green */
+    font-size:18px;
+    text-decoration:none;
+    color:#329A97;
+    padding-left:10px;
+    padding-right:10px;
+   }
